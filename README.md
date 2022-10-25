@@ -1,2 +1,2 @@
-# Coursera
-Codes from my Coursera courses
+# Python For Everybody - Coursera
+Codes that i made from this course
